@@ -1,0 +1,53 @@
+.navbar{
+    display: inline;
+    width: 100%;
+    height: 100px;
+    padding: 5px;
+    border :1px solid chartreuse;
+    background-color: cornsilk;
+}
+body{
+    font-family:'roboto',sans-serif;
+}
+.change{
+    position:relative;
+    left: 1150px;
+    bottom: 620px;
+}
+h1{
+    color: darkturquoise;
+}
+.change2{
+    color: darkviolet;
+}
+.change3{
+    color: blue;
+}
+.change4{
+    color: green;
+}
+.change5{
+    color: blueviolet;
+}
+.ch1{
+    position: relative;
+    height: 5ps;
+    width: 5%;
+    left: 4%;
+}
+.ch2{
+    position: relative;
+    height: 5ps;
+    width: 5%;
+    left: 4%;
+
+}
+.ch3{
+    position: relative;
+    height: 5ps;
+    width: 5%;
+    left: 4%;
+}
+.ch4{
+    color: chocolate;
+}
